@@ -5,4 +5,4 @@ The  report is generated as an html file PA1_template.html.
 
 All data is contained in this folder. The zipped data file "activity.zip" is automatically unzipped by the code and read in. 
 
-In summary by using the option knit HTML of R Studion on the PA1_templated.Rmd you should reproduce the report
+In summary by using the option knit HTML of R Studion on the PA1_template.Rmd you should reproduce the report
